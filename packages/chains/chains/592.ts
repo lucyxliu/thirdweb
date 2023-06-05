@@ -4,7 +4,8 @@ export default {
   "chain": "ASTR",
   "rpc": [
     "https://astar.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
-    "https://rpc.astar.network:8545"
+    "https://rpc.astar.network:8545",
+    "https://1rpc.io/{1RPC_API_KEY}/astr"
   ],
   "faucets": [],
   "nativeCurrency": {
